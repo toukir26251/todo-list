@@ -1,6 +1,6 @@
 # Tudus
 
-A todo list project in React Js + Typescript. You can check [Live demo](https://tudus.toukirazad.com/login).
+A todo list project in React Js + Typescript. You can check [Live demo](https://tudus.toukirazad.com/login) and also check & use [API/s](https://api-tudus.toukirazad.com/api/documentation)
 
 ## Why this project?
 I am [Toukir](https://toukirazad.com/), a full stack developer. I have developed this porject just to know and get some experience in React Js with [Typescript](https://react.dev/learn/typescript). Everyone is welcome to clone the project and modify as their need. May be to learn or check how I have worked. And those people are more welcome, who will let me know some imporvisation. You can fork or ping me in [linkedin](https://www.linkedin.com/in/toukir-26251/). 
